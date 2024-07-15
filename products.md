@@ -1,26 +1,26 @@
-# Productos de Mapfre
+# Mapfre Products
 
-## 1. Seguros de Salud y Vida:
-- **Seguros de Salud:** Mapfre ofrece seguros de salud tanto para individuos como para autónomos, proporcionando cobertura médica completa que incluye consultas, hospitalizaciones y tratamientos.
-- **Seguros de Vida:** Ofrecen varios tipos de seguros de vida y accidentes, que garantizan protección financiera a los beneficiarios en caso de fallecimiento o invalidez del asegurado.
+## 1. Health and Life Insurance:
+- **Health Insurance:** Mapfre offers health insurance for both individuals and self-employed, providing comprehensive medical coverage including consultations, hospitalizations, and treatments.
+- **Life Insurance:** They offer various types of life and accident insurance, ensuring financial protection for beneficiaries in the event of the insured's death or disability.
 
-## 2. Seguros de Ahorro e Inversión:
-- **Millón Vida:** Es un seguro de ahorro a prima única con un interés garantizado de hasta el 2,70% anual. Este producto está diseñado para aquellos que buscan una inversión segura con una rentabilidad garantizada.
-- **Planes de Ahorro Empresas y Unit Linked:** Ofrecen soluciones de ahorro tanto para particulares como para empresas, con diversas opciones que se ajustan a las necesidades y perfiles de riesgo de cada cliente.
+## 2. Savings and Investment Insurance:
+- **Millón Vida:** This is a single premium savings insurance with a guaranteed interest rate of up to 2.70% annually. This product is designed for those seeking a secure investment with guaranteed returns.
+- **Savings Plans for Businesses and Unit Linked:** They offer savings solutions for both individuals and businesses, with various options tailored to the needs and risk profiles of each client.
 
-## 3. Planes de Pensiones:
-- **Planes de Pensiones Individuales y Colectivos:** Diseñados para asegurar una jubilación tranquila, estos planes permiten acumular capital a largo plazo con beneficios fiscales y diversas opciones de inversión.
-- **Planes de Previsión Social:** Ofrecen soluciones para complementar la jubilación, con beneficios adicionales en caso de situaciones específicas como enfermedad o desempleo de larga duración.
+## 3. Pension Plans:
+- **Individual and Collective Pension Plans:** Designed to ensure a peaceful retirement, these plans allow for long-term capital accumulation with tax benefits and various investment options.
+- **Social Security Plans:** They offer solutions to complement retirement, with additional benefits in specific situations such as illness or long-term unemployment.
 
-## 4. Seguros para Empresas:
-- **Seguro Multirriesgo Empresarial:** Proporciona cobertura integral para proteger los activos y operaciones de las empresas frente a diversos riesgos.
-- **Seguros de Responsabilidad Civil:** Incluyen seguros de responsabilidad civil profesional, de administradores y directivos, y agropecuaria, entre otros.
-- **Seguros de Construcción y Maquinaria:** Ofrecen protección para proyectos de construcción y equipos utilizados en diferentes industrias.
+## 4. Business Insurance:
+- **Comprehensive Business Insurance:** Provides integral coverage to protect business assets and operations against various risks.
+- **Liability Insurance:** Includes professional liability insurance, directors and officers liability, and agricultural liability, among others.
+- **Construction and Machinery Insurance:** Offers protection for construction projects and equipment used in different industries.
 
-## 5. Seguros de Vehículos:
-- **Seguros de Coche y Flotas:** Proporcionan cobertura completa para vehículos particulares y flotas de empresas, incluyendo daños, robos y asistencia en carretera.
-- **Seguros de Avería Mecánica y Rent-a-Car:** Protegen contra fallos mecánicos y ofrecen servicios de alquiler de vehículos en caso de siniestros.
+## 5. Vehicle Insurance:
+- **Car and Fleet Insurance:** Provides comprehensive coverage for personal vehicles and business fleets, including damages, theft, and roadside assistance.
+- **Mechanical Breakdown and Rent-a-Car Insurance:** Protects against mechanical failures and offers car rental services in case of incidents.
 
-## 6. Otros Seguros:
-- **Seguros de Viaje:** Cobertura completa para imprevistos durante viajes, incluyendo asistencia médica, pérdida de equipaje y cancelaciones.
-- **Seguros de Hogar:** Protegen la vivienda y su contenido contra daños, robos e incendios.
+## 6. Other Insurance:
+- **Travel Insurance:** Complete coverage for unforeseen events during travel, including medical assistance, lost luggage, and cancellations.
+- **Home Insurance:** Protects the home and its contents against damages, theft, and fires.
